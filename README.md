@@ -31,7 +31,7 @@ This project focuses on predicting the Log GDP per capita using the World Happin
 
 After analyzing the correlation between each feature and Log GDP, the following features were removed due to weak correlation:
 
-- **Freedom to make life choices**
+* **Freedom to make life choices**
 * **Generosity**
 * **Perceptions of corruption**
 * **Positive affect**
