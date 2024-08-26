@@ -39,9 +39,9 @@ After analyzing the correlation between each feature and Log GDP, the following 
 
 ### Data Preparation:
 
-Renamed all features for clarity.
-Dropped missing values to ensure data quality.
-Standardized the data to maintain consistency in scale across all features.
+- Renamed all features for clarity.
+- Dropped missing values to ensure data quality.
+- Standardized the data to maintain consistency in scale across all features.
 
 ## Model Selection
 The model used for prediction is a **Multiple Linear Regression** model. The dataset was split into training and testing sets, with the model fitted on the training data and evaluated on the test data. The model's performance was assessed using the following metrics:
