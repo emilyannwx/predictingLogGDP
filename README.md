@@ -10,32 +10,32 @@ This project focuses on predicting the Log GDP per capita using the World Happin
 
 ### Original Features:
 
--**Life ladder**
--**GINI index**
-***Social support**
-***Healthy life expectancy at birth**
-***Freedom to make life choices**
-***Generosity**
-***Perceptions of corruption**
-***GINI household income index**
-***Positive affect**
-***Negative affect**
+- **Life ladder**
+- **GINI index**
+- **Social support**
+- **Healthy life expectancy at birth**
+- **Freedom to make life choices**
+- **Generosity**
+- **Perceptions of corruption**
+- **GINI household income index**
+- **Positive affect**
+- **Negative affect**
 
 ### Selected Features:
 
-***Happiness** (Life ladder)
-***Support** (Social support)
-***Life** (Healthy life expectancy at birth)
+- **Happiness** (Life ladder)
+- **Support** (Social support)
+- **Life** (Healthy life expectancy at birth)
 
 ### Feature Selection Process:
 
 After analyzing the correlation between each feature and Log GDP, the following features were removed due to weak correlation:
 
-***Freedom to make life choices**
-***Generosity**
-***Perceptions of corruption**
-***Positive affect**
-***Negative affect**
+- **Freedom to make life choices**
+* **Generosity**
+* **Perceptions of corruption**
+* **Positive affect**
+* **Negative affect**
 
 ### Data Preparation:
 
