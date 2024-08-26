@@ -10,8 +10,8 @@ This project focuses on predicting the Log GDP per capita using the World Happin
 
 ### Original Features:
 
-***Life ladder**
-***GINI index**
+-**Life ladder**
+-**GINI index**
 ***Social support**
 ***Healthy life expectancy at birth**
 ***Freedom to make life choices**
